@@ -1,0 +1,15 @@
+{
+    "name": "Xincap/ModuleGenerate",
+    "description": "",
+    "authors": [
+        {
+            "name": "XinGroup Labs",
+            "email": "xincap@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Xincap\\ModuleGenerate\\": ""
+        }
+    }
+}
