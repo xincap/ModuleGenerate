@@ -1,6 +1,6 @@
 <?php
 
-namespace XinExt\ModuleGenerate\Commands;
+namespace Xincap\ModuleGenerate\Commands;
 
 use Illuminate\Support\Str;
 use Pingpong\Support\Stub;

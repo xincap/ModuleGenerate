@@ -1,6 +1,6 @@
 <?php
 
-namespace XinExt\ModuleGenerate\Generators;
+namespace Xincap\ModuleGenerate\Generators;
 
 use Pingpong\Modules\Generators\ModuleGenerator;
 

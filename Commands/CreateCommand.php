@@ -1,9 +1,9 @@
 <?php
 
-namespace XinExt\ModuleGenerate\Commands;
+namespace Xincap\ModuleGenerate\Commands;
 
 use Illuminate\Console\Command;
-use XinExt\ModuleGenerate\Generators\Module;
+use Xincap\ModuleGenerate\Generators\Module;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputOption;
 

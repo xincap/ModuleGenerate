@@ -1,6 +1,6 @@
 <?php
 
-namespace XinExt\ModuleGenerate;
+namespace Xincap\ModuleGenerate;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -13,7 +13,7 @@ class ModuleGenerateProvider extends ServiceProvider {
      *
      * @var string
      */
-    protected $namespace = 'XinExt\\ModuleGenerate\\Commands\\';
+    protected $namespace = 'Xincap\\ModuleGenerate\\Commands\\';
 
     /**
      * The available command shortname.
